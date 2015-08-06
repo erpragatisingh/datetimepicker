@@ -52,6 +52,9 @@ public class Utils {
         return pulseAnimator;
     }
 
+	
+	
+	// commit by pragati
 	public static boolean isJellybeanOrLater() {
 		return Build.VERSION.SDK_INT >= 16;
 	}
